@@ -1,6 +1,6 @@
 # Snap for Prowlarr (dotnet)
 
-This is a snap for Prowlarr, an index manager that integrates with *arr (<https://wiki.servarr.com>) apps.
+This is a snap for Prowlarr, an index manager that integrates with [*arr](https://wiki.servarr.com) apps.
 
 ## Installation
 
