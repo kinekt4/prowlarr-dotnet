@@ -1,0 +1,3 @@
+#!/bin/bash -xe
+
+"$SNAP/prowlarr-dotnet/Prowlarr" -nobrowser -data="$SNAP_COMMON"
