@@ -13,7 +13,7 @@ First build:
 Then install:
 
 ```bash
-    sudo snap install --dangerous radarr_*.snap
+    sudo snap install --dangerous prowlarr_*.snap
 ```
 
 ## Web GUI
